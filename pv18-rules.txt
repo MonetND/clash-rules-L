@@ -10,3 +10,4 @@ payload:
   - DOMAIN-SUFFIX,hanime1.me
   - DOMAIN-SUFFIX,javbus.com
   - DOMAIN-KEYWORD,hcaptcha
+  - DOMAIN-SUFFIX,jdbstatic.com
