@@ -9,5 +9,6 @@ payload:
   - DOMAIN-SUFFIX,missav.com
   - DOMAIN-SUFFIX,hanime1.me
   - DOMAIN-SUFFIX,javbus.com
+  - DOMAIN-SUFFIX,huggingface.co
   - DOMAIN-KEYWORD,hcaptcha
   - DOMAIN-SUFFIX,jdbstatic.com
