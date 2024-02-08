@@ -10,5 +10,6 @@ payload:
   - DOMAIN-SUFFIX,hanime1.me
   - DOMAIN-SUFFIX,javbus.com
   - DOMAIN-SUFFIX,huggingface.co
+  - DOMAIN-SUFFIX,civitai.com
   - DOMAIN-KEYWORD,hcaptcha
   - DOMAIN-SUFFIX,jdbstatic.com
