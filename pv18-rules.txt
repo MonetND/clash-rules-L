@@ -16,3 +16,4 @@ payload:
   - DOMAIN-SUFFIX,jdbstatic.com
   - DOMAIN-SUFFIX,meido.dev
   - DOMAIN-SUFFIX,getuploader.com
+  - DOMAIN-SUFFIX,patreon.com
